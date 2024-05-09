@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am a Senior Software Engineer with over 8 years of experience. Proficient in various programming languages and frameworks. Also, I take an active role in mentoring within the tech community.
+I'm Pablo, a Senior Software Engineer with over 8 years of experience. Proficient in various programming languages and frameworks. Also, I take an active role in mentoring within the tech community.
 
 - 📫 Reach me at: pablobello@hey.com
 - 💼 Let's connect: https://www.linkedin.com/in/pablo-bello/
