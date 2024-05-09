@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 
 #### 💎 Top skills
 **Ruby** • **Elixir** • **Go** • Ruby on Rails • Phoenix • React • TDD • RSpec • Microservices • RESTful API • GraphQL • Tailwind CSS • AWS • Docker • Kafka • PostgreSQL • MySQL
+
+Please check my showcase projects below 👇
