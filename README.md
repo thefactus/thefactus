@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a Senior Software Engineer with over 8 years of experience. Proficient in various programming languages and frameworks. Also, I take an active role in mentoring within the tech community.
+
+- 📫 Reach me at: pablobello@hey.com
 <!--
 **thefactus/thefactus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### ⚡ Technologies
-Ruby /  Elixir / Go / Ruby on Rails / Phoenix / React / TDD / RSpec / Microservices / RESTful API / GraphQL / Tailwind CSS / AWS / Docker / Kafka / PostgreSQL
+#### 💎 Top skills
+**Ruby** • **Elixir** • **Go** • Ruby on Rails • Phoenix • React • TDD • RSpec • Microservices • RESTful API • GraphQL • Tailwind CSS • AWS • Docker • Kafka • PostgreSQL
