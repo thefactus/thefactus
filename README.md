@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I'm Pablo, a Senior Software Engineer with over 8 years of experience. Proficient in various programming languages and frameworks. Also, I take an active role in mentoring within the tech community.
+Brazilian Senior Software Engineer with over 9 years of experience in building scalable, high-performance systems. I am passionate about clean code, innovative solutions, and using modern technologies to solve complex problems. I'm dedicated to driving technical excellence and continuous improvement in every project.
 
 - 📫 Reach me at: pablobello@hey.com
 - ⭐️ Personal website: https://pablobello.dev
