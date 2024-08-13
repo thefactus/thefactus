@@ -4,6 +4,7 @@ I'm Pablo, a Senior Software Engineer with over 8 years of experience. Proficien
 
 - 📫 Reach me at: pablobello@hey.com
 - ⭐️ Personal website: https://pablobello.dev
+- 📝 Tech blog: https://world.hey.com/pablobello
 - 💼 Let's connect: https://www.linkedin.com/in/pablo-bello/
 <!--
 **thefactus/thefactus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +22,6 @@ Here are some ideas to get you started:
 -->
 
 #### 💎 Top skills
-**Ruby** • **Elixir** • **Go** • Ruby on Rails • Phoenix • React • TDD • RSpec • Microservices • RESTful API • GraphQL • Tailwind CSS • AWS • Docker • Kafka • PostgreSQL • MySQL
+**Ruby** • **Elixir** • **Go** • **JavaScript** • **TypeScript** • Ruby on Rails • Phoenix • React • TDD • RSpec • Microservices • RESTful API • GraphQL • Tailwind CSS • AWS • Docker • Kafka • PostgreSQL • MySQL
 
 Please check my showcase pinned projects below 👇
