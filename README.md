@@ -3,6 +3,7 @@
 I'm Pablo, a Senior Software Engineer with over 8 years of experience. Proficient in various programming languages and frameworks. Also, I take an active role in mentoring within the tech community.
 
 - 📫 Reach me at: pablobello@hey.com
+- ⭐️ Personal website: https://pablobello.dev
 - 💼 Let's connect: https://www.linkedin.com/in/pablo-bello/
 <!--
 **thefactus/thefactus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
