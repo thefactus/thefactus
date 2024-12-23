@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+### Hi there
 
 Brazilian Senior Software Engineer with over 9 years of experience in building scalable, high-performance systems. I am passionate about clean code, innovative solutions, and using modern technologies to solve complex problems. I'm dedicated to driving technical excellence and continuous improvement in every project.
 
