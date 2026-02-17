@@ -10,11 +10,9 @@ Brazilian Senior Software Engineer with **10+ years of experience** building sca
 ## Current Projects
 
 - **⚡ [Tasker](https://mytasker.app)** - AI Project Management Platform  
-Linear-style task manager with AI assistant for conversational queries and autonomous actions (insights, task creation, messaging). Event-driven architecture with a hybrid agentic approach: function calling for structured operations and RAG with pgvector for semantic retrieval.
-Rails · GraphQL · React · Apollo · Claude Sonnet 4.5
-- **📅 Agendr** - AI Scheduling Platform
-Conversational appointment booking with event-driven architecture. AI assistant powered by LangChain and RAG (pgvector), WhatsApp automation, multi-channel support.
-Elixir · Phoenix · GraphQL · React · Apollo · OpenAI
+Linear-style task manager with AI assistant for conversational queries and autonomous actions (insights, task creation, messaging). Event-driven architecture with a hybrid agentic approach: function calling for structured operations and RAG with pgvector for semantic retrieval. Stack: Rails · GraphQL · React · Apollo · Claude Sonnet
+- **📅 Agendr** - AI Scheduling Platform  
+Conversational appointment booking with event-driven architecture. AI assistant powered by LangChain and RAG (pgvector), WhatsApp automation, multi-channel support. Stack: Elixir · Phoenix · GraphQL · React · Apollo · OpenAI
 
 ## 💎 Top Skills
 
