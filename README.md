@@ -1,27 +1,20 @@
-### Hi there
+### Hi there 👋
 
-Brazilian Senior Software Engineer with over 9 years of experience in building scalable, high-performance systems. I am passionate about clean code, innovative solutions, and using modern technologies to solve complex problems. I'm dedicated to driving technical excellence and continuous improvement in every project.
+Brazilian Senior Software Engineer with **10+ years of experience** building scalable systems and expertise in **AI/ML applications**. Proficient in RAG and agentic architectures, with hands-on experience in AI agent development and testing. I'm passionate about clean code, innovative solutions, and using modern technologies to solve complex problems. Strong focus on technical excellence, clean, maintainable code, and mentoring engineers to grow impact and delivery quality.
 
 - 📫 Reach me at: pablobello@hey.com
 - ⭐️ Personal website: https://pablobello.dev
 - 📝 Tech blog: https://world.hey.com/pablobello
 - 💼 Let's connect: https://www.linkedin.com/in/pablo-bello/
-<!--
-**thefactus/thefactus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **⚡ [Tasker](https://mytasker.app)** - AI Project Management Platform  
+Linear-style task manager with AI assistant for conversational queries and autonomous actions (insights, task creation, messaging). Event-driven architecture with a hybrid agentic approach: function calling for structured operations and RAG with pgvector for semantic retrieval.
+Rails · GraphQL · React · Apollo · Claude Sonnet 4.5
 
-#### 💎 Top skills
-**Ruby** • **Elixir** • **Go** • **JavaScript** • **TypeScript** • Ruby on Rails • Phoenix • React • TDD • RSpec • Microservices • RESTful API • GraphQL • Tailwind CSS • AWS • Docker • Kafka • PostgreSQL • MySQL
+## 💎 Top Skills
 
-Please check my showcase pinned projects below 👇
+**Python** • **Ruby** • **Go** • **TypeScript** • **Elixir** • Ruby on Rails • React • FastAPI • Node.js/Express • Phoenix • GraphQL • Event-Driven Architecture (Kafka) • Microservices • TDD • RESTful APIs • Tailwind CSS • AWS • Docker • PostgreSQL • MongoDB
+
+**AI & Data:** RAG · LLM Integration (Claude Sonnet, GPT) · Semantic Search · Embeddings · Document Chunking · Prompt Engineering
